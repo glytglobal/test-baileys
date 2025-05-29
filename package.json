@@ -1,7 +1,7 @@
 {
-  "name": "@itsukichan/baileys",
-  "version": "7.2.8",
-  "description": "WhatsApp API Modification By Itsukiichan",
+  "name": "@test/baileys",
+  "version": "8.0.1",
+  "description": "WhatsApp API Modification By Testers Developers",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,13 +12,13 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/Itsukichann/Baileys",
+  "homepage": "https://github.com/glytglobal/test-baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Itsukichann/Baileys.git"
+    "url": "git+ssh://git@github.com/glytglobal/test-baileys.git"
   },
   "license": "MIT",
-  "author": "Itsukichann",
+  "author": "glytglobal",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -101,6 +101,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/Itsukichann/Baileys/issues"
+    "url": "https://github.com/glytglobal/test-baileys/issues"
   }
 }
